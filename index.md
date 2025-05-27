@@ -9,3 +9,6 @@ public final class Main {
   }
 }
 ```
+
+- [ ] Start a new project
+- [X] Finish an old project
